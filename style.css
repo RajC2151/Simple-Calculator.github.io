@@ -1,0 +1,43 @@
+body{
+    background-color: rgb(155, 185, 240);
+}
+h1{
+    text-align: center;
+}
+table{
+    margin: 0px auto;
+    width: 600px;
+    height: 400px;
+    
+}
+
+#purple{
+    background-color: purple;
+}
+input{
+    background-color: orange;
+    width: 100%;
+    height: 100%;
+    border-radius: 10px;
+    font-size: larger;
+    font-weight: 600;
+
+}
+input:hover{
+    cursor: pointer;
+}
+#result{
+    background-color: rgb(250, 250, 250);
+    border: 2px solid black;
+    font-size: larger;
+    width: 98%;
+    font-weight: 600;
+    color: black;
+    cursor: default
+}
+table{
+    border: 2px solid black;
+    padding: 8px;
+    border-radius: 11px;
+    background-color: black;
+}
